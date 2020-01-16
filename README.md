@@ -9,6 +9,7 @@ This implementation has following algorithms for HMM.
 - Gibbs (EM with approx E)
 
 ## Doc
-You can view the jupyter notebook (ipython notebook) [here](https://nbviewer.jupyter.org/github/thjashin/hmm/blob/master/hmm.ipynb).
+You can view the jupyter notebook (ipython notebook + binder) [here](https://mybinder.org/v2/gh/Redawt/hmmtest/master).
 
 #### By Jiaxin Shi, ishijiaxin@126.com
+### Modified by Felix Kindermann
